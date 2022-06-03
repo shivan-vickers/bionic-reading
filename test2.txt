@@ -1,0 +1,3 @@
+This is another example. Here's another weird thing to test.
+I just realized "I'd" is gonna cause problems.
+I also didn't account for "\n". Or quotation marks. Oof.
